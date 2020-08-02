@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.ziscloud.intellijplugindemo
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
